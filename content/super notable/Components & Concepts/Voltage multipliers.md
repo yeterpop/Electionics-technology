@@ -1,0 +1,2 @@
+
+Voltage multipliers combine two or more capacitors together with an AC wave. Than another capacitor combines all of those ones, creating a multiplied voltage. Sometimes the capacitor that combines multiple of the other capacitors together can be part of that equation. Each capacitor has its own diode which allows for current to flow a certain way when the AC wave either becomes positive or negative.

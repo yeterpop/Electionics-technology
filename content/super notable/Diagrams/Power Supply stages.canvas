@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3a48ca6d47372380","type":"text","text":"Rectification","x":-280,"y":-180,"width":140,"height":50},
+		{"id":"5fb0df104c4d2c46","type":"text","text":"Filtering","x":-80,"y":-180,"width":140,"height":50},
+		{"id":"a9fb58830a557e95","type":"text","text":"load","x":500,"y":-180,"width":167,"height":50},
+		{"id":"7bf91c8aacb70a06","type":"text","text":"Regulation","x":120,"y":-180,"width":220,"height":50},
+		{"id":"09c147e5061cba87","type":"text","text":"Voltage Reduction","x":-580,"y":-195,"width":160,"height":80}
+	],
+	"edges":[
+		{"id":"b5b1c625c1a11ce8","fromNode":"09c147e5061cba87","fromSide":"right","toNode":"3a48ca6d47372380","toSide":"left"},
+		{"id":"6e2e9671693a3366","fromNode":"3a48ca6d47372380","fromSide":"right","toNode":"5fb0df104c4d2c46","toSide":"left"},
+		{"id":"dac5de6b0c5c76e8","fromNode":"5fb0df104c4d2c46","fromSide":"right","toNode":"7bf91c8aacb70a06","toSide":"left"},
+		{"id":"06eeca799b0107d1","fromNode":"7bf91c8aacb70a06","fromSide":"right","toNode":"a9fb58830a557e95","toSide":"left"}
+	]
+}

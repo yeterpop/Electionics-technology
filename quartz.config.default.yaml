@@ -98,9 +98,9 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: false
+    enabled: true
     options:
-      theme: tokyo-night
+      theme: obsidian-gruvbox
       mode: both
   - source: "@quartz-community/explicit-publish"
     enabled: false
