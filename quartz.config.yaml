@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: en-US
-  baseUrl: https://yeterpop.github.io/Electionics-technology/
+  baseUrl: yeterpop.github.io/Electionics-technology
   ignorePatterns:
     - private
     - templates
